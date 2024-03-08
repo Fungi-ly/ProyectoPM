@@ -114,7 +114,7 @@ header .social .btn {
   position: relative;
 }
 #timeline .timeline-item .timeline-icon {
-  background: #F7CAC9; /* Paleta rosada */
+  background: black; /* Paleta rosada */
   width: 50px;
   height: 50px;
   position: absolute;
@@ -151,7 +151,7 @@ header .social .btn {
 }
 #timeline .timeline-item .timeline-content h2 {
   padding: 15px;
-  background: #F7CAC9; /* Paleta rosada */
+  background: black; /* Paleta rosada */
   color: #fff;
   margin: -20px -20px 0 -20px;
   font-weight: 300;
@@ -174,7 +174,7 @@ header .social .btn {
   height: 0;
   border-top: 7px solid transparent;
   border-bottom: 7px solid transparent;
-  border-left: 7px solid #F7CAC9; /* Paleta rosada */
+  border-left: 7px solid black; /* Paleta rosada */
 }
 #timeline .timeline-item .timeline-content.right {
   float: right;
@@ -184,7 +184,7 @@ header .social .btn {
   right: 45%;
   left: inherit;
   border-left: 0;
-  border-right: 7px solid violet;
+  border-right: 7px solid black;
 }
 
 
@@ -205,7 +205,7 @@ header .social .btn {
     left: 10%;
     margin-left: -6px;
     border-left: 0;
-    border-right: 7px solid #F7CAC9; /* Paleta rosada */
+    border-right: 7px solid black; /* Paleta rosada */
   }
   #timeline .timeline-item .timeline-icon {
     left: 0;
